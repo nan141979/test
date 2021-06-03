@@ -1,0 +1,242 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 20px;
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+}
+
+#TokenAddress{
+    width: 390px;
+    height: 25px;
+    margin-left: 0px;
+    border-radius: 6px;
+    color: white;
+    background: #504e4e;}
+
+#button1{
+    width: 71px;
+    height: 28px;
+    border-radius: 10px;
+    margin-left: 400px;
+    position: inherit;
+    height: 31px;
+    bottom: 52px;
+}
+
+
+.formToken{
+    background-color: rgb(234 234 234);
+    border-radius: 20px;
+}
+
+#why-us > div > div > div.row > div.col-lg-7.d-flex.flex-column.justify-content-center.align-items-stretch.order-2.order-lg-1 > div > img{
+    width: 90%;
+    border-radius: 20px;
+}
+
+h2.textprinc{
+    color:white; 
+}
+
+#why-us > div > div > div.row.d-flex.align-items-center > div > h2{
+    color: white;
+    margin-left: 270px;
+}
+#why-us > div > div > div.row.containerimages > div.col-lg-7.d-flex.flex-column.justify-content-center.align-items-stretch.order-2.order-lg-1{
+    margin-top: -70px;
+
+}
+
+#why-us > div > div > div.row > div.col-lg-7.d-flex.flex-column.justify-content-center.align-items-stretch.order-2.order-lg-1 > div > img{
+    border-radius: 40px;
+}
+
+#why-us > div > div > div.row.containerimages > div.col-lg-5.align-items-stretch.order-1.order-lg-2.img > div > img.FWFundo{
+    border-radius: 40px;
+}
+
+.result{
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+}
+
+@media (max-width: 560px){
+    .gif-wrapper {
+        margin-top: 0px;
+        width: 80%;
+    }
+
+    #why-us > div > div > div.row.containerimages > div.col-lg-5.align-items-stretch.order-1.order-lg-2.img > div > img.img-fluid.animated {
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 204px;
+    }
+
+}
+
+@media (max-width:500px) {
+    #currency-2{
+        position: relative;
+        left: 85px;
+        bottom: 17px;
+    }
+
+    #about > div > div:nth-child(2) > div:nth-child(2) > form > div:nth-child(3) > label{
+        position: relative;
+        bottom: -24px;
+        left: 5px;
+    }
+    
+    #why-us > div > div > div.row.containerimages > div.col-lg-5.align-items-stretch.order-1.order-lg-2.img > div > img.FWFundo{
+        position: relative;
+        width: 448px;
+        bottom: -296px;
+    }
+
+    #why-us > div > div > div.row.containerimages > div.col-lg-7.d-flex.flex-column.justify-content-center.align-items-stretch.order-2.order-lg-1 > div > img{
+        position: relative;
+        width: 405px;
+        bottom: 630px;
+        right: 10px;
+    }
+
+    #why-us{
+        padding-bottom: 0;
+        position: relative;
+        height: 1520px;
+    }
+    
+}
+
+@media (max-width:400px) {
+    #currency-2{
+        position: relative;
+        left: 26px;
+        padding-left: 0px;
+        bottom: 17px;
+    }
+
+    #about > div > div:nth-child(2) > div:nth-child(2) > form > div:nth-child(3) > label{
+        position: relative;
+        bottom: -24px;
+        left: 5px;
+    }
+    
+    #why-us > div > div > div.row.containerimages > div.col-lg-5.align-items-stretch.order-1.order-lg-2.img > div > img.FWFundo{
+        position: relative;
+        width: 448px;
+        bottom: -296px;
+    }
+
+    #why-us > div > div > div.row.containerimages > div.col-lg-7.d-flex.flex-column.justify-content-center.align-items-stretch.order-2.order-lg-1 > div > img{
+        position: relative;
+        width: 405px;
+        bottom: 630px;
+        right: 10px;
+    }
+
+    #why-us{
+        padding-bottom: 0;
+        position: relative;
+        height: 1520px;
+    }
+
+    #button1{
+        position: relative;
+        right: 237px;
+        top: -13px;
+    }
+    
+}
+
+@media screen and (max-width: 576px) and (min-width: 501px){
+    #currency-2{
+        position: relative;
+        left: 48px;
+        padding-left: 0px;
+        bottom: 15px;
+    }
+
+    #about > div > div:nth-child(2) > div:nth-child(2) > form > div:nth-child(3) > label{
+        position: relative;
+    bottom: -25px;
+    left: 17px;
+    }
+}
+
+@media screen and (max-width: 578px) and (min-width: 553px){
+    #about > div > div:nth-child(2) > div:nth-child(2) > form > button{
+        position: relative;
+        bottom: -60px;
+        left: -352px;
+    }
+
+    #about > div > div:nth-child(2) > div:nth-child(2) > div.result{
+        position: relative;
+        bottom: -54px;
+        left: 89px;
+    }
+
+
+}
+
+@media screen and (max-width: 365px)
+{
+    #currency-2{
+        position: relative;
+        left: 26px;
+        padding-left: 0px;
+        bottom: 17px;
+    }
+
+    #about > div > div:nth-child(2) > div:nth-child(2) > form > div:nth-child(3) > label{
+        position: relative;
+        bottom: -24px;
+        left: 5px;
+    }
+    
+    #why-us > div > div > div.row.containerimages > div.col-lg-5.align-items-stretch.order-1.order-lg-2.img > div > img.FWFundo{
+        position: relative;
+        width: 340px;
+        right: 11px;
+        bottom: -90;
+    }
+
+    #why-us > div > div > div.row.containerimages > div.col-lg-7.d-flex.flex-column.justify-content-center.align-items-stretch.order-2.order-lg-1 > div > img{
+        position: relative;
+        width: 321px;
+        bottom: 559px;
+        right: 18px;
+        
+    }
+
+    #why-us > div > div > div.row.containerimages > div.col-lg-5.align-items-stretch.order-1.order-lg-2.img > div > img.img-fluid.animated{
+        position: relative;
+        margin-left: -36px;
+        margin-top: -98px;
+    }
+
+    #button1{
+        position: relative;
+        right: 237px;
+        top: -13px;
+    }
+}

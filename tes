@@ -1,0 +1,118 @@
+<section id="why-us" class="why-us section-bg">
+
+		<div class="container-fluid" data-aos="fade-up">
+			
+				<div class="row">
+					<div class="col">
+
+						
+						<div class="content">
+
+							<h3>Buy and Hold <strong>FullWallet (FW)</strong> and you will automatically get more in your wallet.
+								No need to farm, stake or claim.</h3>
+
+							<p>
+
+
+								Each trade also automatically adds liquidity on Pancakeswap leading to an ever-increasing
+								price floor of <strong>FullWallet</strong>. This
+								means that even if every single <strong>FullWallet</strong> holder sells, the price will not
+								go to zero.
+
+							</p>
+
+						</div>
+						-->
+					
+						<div class="accordion-list">
+
+							<ul>
+
+								<li>
+
+									<a data-toggle="collapse" class="collapse" href="index.html#accordion-list-1"><span>01</span>Community
+																													driven
+																													project
+										<i class="bx bx-chevron-down icon-show"></i><i
+												class="bx bx-chevron-up icon-close"></i></a>
+
+									<div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
+
+										<p>
+
+											Though the core development team is always working on <strong>FullWallet</strong>
+											it is the community who can guarantee its success. On Telegram,
+											Facebook, Instagram, TikTok, Reddit and other social media channels, our awesome
+											community is spreading the word about us.
+
+										</p>
+
+									</div>
+
+								</li>
+
+								<li>
+
+									<a data-toggle="collapse" href="index.html#accordion-list-2" class="collapsed"><span>02</span>Rewards
+																														holders
+																														through
+																														static
+																														reflection<i
+												class="bx bx-chevron-down icon-show"></i><i
+												class="bx bx-chevron-up icon-close"></i></a>
+
+									<div id="accordion-list-2" class="collapse" data-parent=".accordion-list">
+
+										<p>
+
+											Our tokenomics incentivize holding. We like to say "we pay you to hold". 2% of
+											each transaction goes instantly and gaslessly
+											to the <strong>FullWallet</strong> holders, proportional to their holdings.
+
+
+									</div>
+
+								</li>
+
+								<li>
+
+									<a data-toggle="collapse" href="index.html#accordion-list-3" class="collapsed"><span>03</span>Deflationary
+																														Black
+																														Hole.
+																														Forever!
+										<i class="bx bx-chevron-down icon-show"></i><i
+												class="bx bx-chevron-up icon-close"></i></a>
+
+									<div id="accordion-list-3" class="collapse" data-parent=".accordion-list">
+
+										<p>
+
+											Immediately after launch we burned more than 50% of the total supply of <strong>FullWallet</strong>
+											and sent it to a dead wallet. Because
+											the dead wallet is also a holder, it also gets proportional transaction rewards.
+											But since nobody has access to that wallet, those
+											<strong>SAFEAMRS</strong> tokens are retired from circulation (effectively
+											burned). The burn happens on every transaction and accelerates
+											as the black hole gets bigger...forever!
+
+										</p>
+
+									</div>
+
+								</li>
+
+
+							</ul>
+
+						</div>
+
+					</div>
+				
+					<div></div>
+				</div>
+			</div>
+
+
+		</div>
+
+	</section>
